@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>实践记录 on Dengyun Blog</title>
+        <link>http://www.leidengyun.cn/categories/%E5%AE%9E%E8%B7%B5%E8%AE%B0%E5%BD%95/</link>
+        <language>zh-CN</language>
+        <author>CoderZh</author>
+        <rights>Copyright (c) 2015, CoderZh; all rights reserved.</rights>
+        <updated>Fri, 12 Feb 2016 11:11:29 CST</updated>
+        
+        <item>
+            <title>Hugo搭建的静态网站</title>
+            <link>http://www.leidengyun.cn/2016/hugo-page/</link>
+            <pubDate>Fri, 12 Feb 2016 11:11:29 CST</pubDate>
+            <author>CoderZh</author>
+            <guid>http://www.leidengyun.cn/2016/hugo-page/</guid>
+            <description>&lt;p&gt;本网站采用Hugo搭建，采用&lt;a href=&#34;https://github.com/coderzh/hugo-rapid-theme&#34;&gt;hugo-rapid-theme&lt;/a&gt;主题，托管于Github与GitCafe，搭建方案采用&lt;a href=&#34;http://blog.coderzh.com/2015/08/29/hugo/&#34;&gt;coderZh博客《使用hugo搭建个人博客站点》&lt;/a&gt;。&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
